@@ -19,8 +19,8 @@ html {
 
 body {
   font-family: Roboto, Noto, "San Francisco", Ubuntu, "Segoe UI", "Fira Sans", message-box, Arial, sans-serif;
-  inline-size: calc(var(--overflow-size) + 299px);
-  max-inline-size: calc(var(--overflow-size) + 299px);
+  inline-size: calc(var(--overflow-size) + 399px);
+  max-inline-size: calc(var(--overflow-size) + 399px);
 }
 
 html,
